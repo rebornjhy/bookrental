@@ -1,0 +1,11 @@
+/home/project/team/product/src/main/java/bookrental/config/kafka/KafkaProcessor.java
+/home/project/team/product/src/main/java/bookrental/OrderReturned.java
+/home/project/team/product/src/main/java/bookrental/Received.java
+/home/project/team/product/src/main/java/bookrental/AbstractEvent.java
+/home/project/team/product/src/main/java/bookrental/PolicyHandler.java
+/home/project/team/product/src/main/java/bookrental/ProductApplication.java
+/home/project/team/product/src/main/java/bookrental/Product.java
+/home/project/team/product/src/main/java/bookrental/ProductController.java
+/home/project/team/product/src/main/java/bookrental/ProductRepository.java
+/home/project/team/product/src/main/java/bookrental/ShippedCanceled.java
+/home/project/team/product/src/main/java/bookrental/Shipped.java
